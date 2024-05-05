@@ -2,16 +2,7 @@
 
 *Web application developed using HTML, CSS, Javascript, PHP and MySQL*
 
-**Website** - [Passport Automation System](https://cfts-mkb-pas.000webhostapp.com)
-
-## Table of Contents
-
-- [About](https://github.com/maheshkumaarbalaji/pas#about)
-- [Scope](https://github.com/maheshkumaarbalaji/pas#scope)
-- [Use Cases Implemented](https://github.com/maheshkumaarbalaji/pas#use-cases-implemented)
-- [Actors Involved](https://github.com/maheshkumaarbalaji/pas#actors-involved)
-- [Technologies Used](https://github.com/maheshkumaarbalaji/pas#technologies-used)
-- [Tools Used](https://github.com/maheshkumaarbalaji/pas#tools-used)
+**Website** - [Passport Automation System]()
 
 ## About
 
